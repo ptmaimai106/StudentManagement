@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace StudentManagement
 {
@@ -49,6 +50,29 @@ namespace StudentManagement
                 return false;
             }
         }
+
+        public override void GetNotify(Post p)
+        {
+            Console.WriteLine("User " + StudentName + " receives " + p.Content);
+        }
+
+
+        // KHONG DUOC IMPLEMENT O DAY : CHỈ CÓ HỌC SINH ĐÃ SUBSCRIBE + HỌC SINH THUỘC HỆ TƯƠNG ĐƯƠNG MÓI NHẬN ĐƯỢC THÔNG BÁO
+        // HÃY IMPLEMENT Ở LỚP ĐÓ LUÔN  => vi phạm quy tắc solid
+
+        //public override void Subscribe(Category category, string[] topics)
+        //{
+
+        //    category.Join(this, topics);
+        //}
+
+
+
+        //internal void Post(Category category, string content, string[] topics)
+        //{
+        //    category.AddPost(this, content,
+        //        PrepareTopicDictionary(topics));
+        //} chi co giao vu duoc phep post bai thong bao
 
 
     }

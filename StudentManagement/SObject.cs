@@ -35,5 +35,12 @@ namespace StudentManagement
         {
             return true;
         }
+
+        public virtual void GetNotify(Post p) { }
+        //public  void Subscribe(SObject obj,Category category, string[] topics) 
+        //{
+        //}
+
+
     }
 }

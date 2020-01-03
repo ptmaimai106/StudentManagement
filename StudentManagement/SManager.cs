@@ -55,5 +55,23 @@ namespace StudentManagement
             }
             return 0;
         }
+    
+    
+        public static void GetNotify(int handle, Post p)
+        {
+            SObject obj = FindObjectByHandle(handle);
+            if (obj != null)
+               obj.GetNotify(p);
+
+        }
+
+        //public static void Subscribe(int handle, Category category,string[] topics)
+        //{
+        //    SObject obj = FindObjectByHandle(handle);
+        //    if (obj != null)
+        //        obj.Subscribe(obj,category, topics);
+        //}
+    
+    
     }
 }

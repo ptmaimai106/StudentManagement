@@ -25,6 +25,22 @@ namespace StudentManagement
             sv2["StudentName"] = "PHAN THI MAI";
             Console.WriteLine(sv2["StudentName"]);
 
+
+            Category g1, g2;
+            g1 = new Category("Scholarship");
+            g2 = new Category("Travel");
+
+            sv.Subscribe(g2, new string[] { "Food" });
+            sv1.Subscribe(g1, new string[] { "Food", "Book" });
+            sv2.Subscribe(g2, new string[] { "Food", "  Scholarship" });
+
+            // notification
+
+
+
+
+
+
         }
     }
 }

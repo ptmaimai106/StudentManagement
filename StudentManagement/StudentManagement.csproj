@@ -44,15 +44,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CAdvancedStudent.cs" />
+    <Compile Include="Category.cs" />
     <Compile Include="CHighQualityStuden.cs" />
     <Compile Include="CManager.cs" />
     <Compile Include="CNormalStudent.cs" />
     <Compile Include="CObject.cs" />
+    <Compile Include="DefaultChecker.cs" />
+    <Compile Include="Post.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SManager.cs" />
     <Compile Include="SObject.cs" />
     <Compile Include="SStudent.cs" />
+    <Compile Include="Staff.cs" />
+    <Compile Include="TopicChecker.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

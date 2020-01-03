@@ -34,5 +34,15 @@ namespace StudentManagement
             }
         }
 
+        internal void GetNotify(Post p)
+        {
+            CManager.GetNotify(Handle, p);
+        }
+
+        internal void Subscribe(Category group, string[] topics)
+        {
+            group.Join(this, topics);
+        }
+
     }
 }

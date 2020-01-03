@@ -24,6 +24,16 @@ namespace StudentManagement
             return SManager.CreateObjectByClassName(sClassName);
         }
 
+        public static void GetNotify(int handle, Post p)
+        {
+            SManager.GetNotify(handle, p);
+        }
+
+        //public static void Subscribe(int handle, Category category, string[] topics)
+        //{
+        //    SManager.Subscribe(handle,category, topics);
+        //}
+
 
     }
 }
