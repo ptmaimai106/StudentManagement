@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StudentManagement.SObject">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAIAAAACAAAAAAE=</HashCode>
+      <FileName>SObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagement.SManager">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAACAAAgAAAAgAQABAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>SManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagement.CObject">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAIAAAACAAAAAAA=</HashCode>
+      <FileName>CObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagement.CManager">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAgAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>CManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagement.SStudent" Collapsed="true">
+    <Position X="16.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAABAAAAAIAAAAAAAAAAAAAAACAAE=</HashCode>
+      <FileName>SStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagement.CNormalStudent">
+    <Position X="10.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CNormalStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
