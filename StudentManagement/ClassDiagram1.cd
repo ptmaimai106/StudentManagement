@@ -36,10 +36,24 @@
     </TypeIdentifier>
   </Class>
   <Class Name="StudentManagement.CNormalStudent">
-    <Position X="10.5" Y="2.75" Width="1.5" />
+    <Position X="6.5" Y="2.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>CNormalStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagement.CHighQualityStudent">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CHighQualityStuden.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagement.CAdvancedStudent">
+    <Position X="10.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CAdvancedStudent.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

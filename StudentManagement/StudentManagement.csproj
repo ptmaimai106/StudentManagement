@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CAdvancedStudent.cs" />
+    <Compile Include="CHighQualityStuden.cs" />
     <Compile Include="CManager.cs" />
     <Compile Include="CNormalStudent.cs" />
     <Compile Include="CObject.cs" />

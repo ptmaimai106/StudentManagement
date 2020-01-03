@@ -43,7 +43,15 @@ namespace StudentManagement
         {
             switch (sClassName)
             {
-                case "NormalStudent": return new SStudent().Handle;
+                case "NormalStudent": 
+                    return new SStudent().Handle;
+                   
+                case "HighQualityStudent": 
+                    return new SStudent().Handle;
+                   
+                case "AdvancedStudent":
+                    return new SStudent().Handle;
+
             }
             return 0;
         }

@@ -11,7 +11,5 @@ namespace StudentManagement
             this.Handle = CManager.CreateRemoteObject("NormalStudent");
 
         }
-
-
     }
 }
