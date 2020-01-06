@@ -13,7 +13,7 @@ namespace StudentManagement
                 PrepareTopicDictionary(topics));
         }
 
-        private Dictionary<string, int> PrepareTopicDictionary(string[] topics)
+        internal Dictionary<string, int> PrepareTopicDictionary(string[] topics)
         {
             Dictionary<string, int> res = new Dictionary<string, int>();
             for (int i = 0; i < topics.Length; i++)

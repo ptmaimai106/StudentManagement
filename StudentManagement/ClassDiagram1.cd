@@ -6,61 +6,61 @@
       <Compartment Name="Methods" Collapsed="true" />
     </Compartments>
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAABAAAABAAAACAAIAAAACAAAAAAE=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAABAAAAAAAIAAAACAAAAAAE=</HashCode>
       <FileName>SObject.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StudentManagement.SManager">
     <Position X="13" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>BAAAAAAAAAAAAACAAAgAAABgAQADAAAAAAAEAAAAAAA=</HashCode>
+      <HashCode>BAAAAAAAAAAAAACAAAgAAABgAQABAAAAAAAEAAAAAAA=</HashCode>
       <FileName>SManager.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StudentManagement.CObject">
     <Position X="10.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAIAAAACAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAABAAAACAAIAAAACAAAAAAA=</HashCode>
       <FileName>CObject.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StudentManagement.CManager">
     <Position X="7.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAACAAAAAAABgAAACAAAAAAAAAAAAAgA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAABgAAAAAAAAAAAAAAAAAgA=</HashCode>
       <FileName>CManager.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StudentManagement.SStudent" Collapsed="true">
     <Position X="16.75" Y="1" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAABAAAAAAAAAAAABAAAAAIAAAAAAAAAAAAAAACAAE=</HashCode>
+      <HashCode>AAAABAAAAAAAAAAAABAAAABIAAAAAAAAAAAAAAACAAE=</HashCode>
       <FileName>SStudent.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StudentManagement.CNormalStudent">
-    <Position X="6.5" Y="2.75" Width="1.5" />
+    <Position X="6.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>CNormalStudent.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StudentManagement.CHighQualityStudent">
-    <Position X="8.25" Y="2.75" Width="1.5" />
+    <Position X="8.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>CHighQualityStuden.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StudentManagement.CAdvancedStudent">
-    <Position X="10" Y="2.75" Width="1.5" />
+    <Position X="10.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>CAdvancedStudent.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StudentManagement.Category">
-    <Position X="3.75" Y="0.75" Width="1.5" />
+    <Position X="3.5" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAQEAAgAAEAAAAQAAAAJAAABAAAAAAAAAAA=</HashCode>
       <FileName>Category.cs</FileName>
@@ -74,7 +74,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="StudentManagement.Staff">
-    <Position X="2" Y="3.25" Width="1.5" />
+    <Position X="1.75" Y="2.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAACAAA=</HashCode>
       <FileName>Staff.cs</FileName>

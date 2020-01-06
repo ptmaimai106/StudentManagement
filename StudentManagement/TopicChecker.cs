@@ -6,7 +6,7 @@ namespace StudentManagement
     {
         internal bool IsOK(Post p, string[] v)
         {
-            throw new NotImplementedException();
+            return true;
         }
     }
 }
